@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.ryleu.trueinfinity.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "InfinityEnchantmentMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
